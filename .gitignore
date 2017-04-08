@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# model and data
+im2txt/im2txt/model/train/
+im2txt/im2txt/data/
